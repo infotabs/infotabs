@@ -1,0 +1,219 @@
+<!-- For help on using this template, see the blog post: https://blog.mturk.com/editing-the-survey-link-project-template-in-the-ui-7c75285105fb#.py7towsdx --><!-- HIT template: SurveyLink-v3.0 --><!-- The following snippet enables the 'responsive' behavior on smaller screens -->
+<meta content="width=device-width,initial-scale=1" name="viewport" />
+<section class="container" id="SurveyLink"><!-- Instructions -->
+<div class="row">
+<div class="col-xs-12 col-md-12">
+<div class="panel panel-primary">
+<!-- WARNING: the ids "collapseTrigger" and "instructionBody" are being used to enable expand/collapse feature -->
+<a class="panel-heading" href="javascript:void(0);" id="collapseTrigger"><strong>Table Comprehension Instructions</strong> <span class="collapse-text">(Read them carefully)</span> </a>
+<div class="panel-body" id="instructionBody">
+<p>In this task, we will ask you to make inferences about information presented in a tabular form.</p>
+
+<p>We will show you a table. Using only the table and what you believe <i>most</i> people know about the world, you should write:</p>
+
+<ol>
+	<li>One statement that is definitely true,</li>
+	<li>One statement that may or may not be true, and</li>
+	<li>One statement that is definitely false.</li>
+</ol>
+
+<!--<p>&nbsp;</p>-->
+
+<p>Things to keep in mind as you write these statements. The examples below expand on these points :</p>
+
+<ul>
+	<li>Avoid using information that you may know, if you believe that it is not generally known.</li>
+	<ul>
+		<li>Don't use names of people or places not mentioned in the table for writing your statements. Also, don't refer to outside sources of information.</li>
+	</ul>
+	<li>Write sentences which would require some inference instead of literally restating information from the tables. </li>
+	<ul>
+		<li>Please avoid writing trivially false statements that simply contradict information in the table, or make minor changes to numerical values in the table.</li>
+	</ul>
+	<li>Your sentences should be self-contained. That is, even if the table were to be removed from the page, your sentences should make sense.</li>
+	<li>Try to use information from different parts of the table in crafting your sentences.</li>
+	<li>Don't use subjective reasoning or using your personal opinion to create the "may be true" sentences.</li>
+	<li>Please write grammatically correct and complete sentences.</li>
+</ul>
+
+<!--<p>&nbsp;</p>-->
+<p>The table below and the following examples clarify the instructions.</p>
+
+</style><tr><table  style="width:22em" align="center" border="1"><caption  style="padding-bottom:0.2em;">Dressage</caption><tbody><tr><th scope="row" style="padding-top:0.2em;line-height:1.2em; padding-right:1.0em;">Highest governing body</th><td style="line-height:1.3em;">International Federation for Equestrian Sports (FEI)</td></tr><tr><th colspan="2" style="text-align:center;background:#eee;">Characteristics</th></tr><tr><th scope="row" style="padding-top:0.2em;line-height:1.2em; padding-right:1.0em;">Contact</th><td style="line-height:1.3em;">No</td></tr><tr><th scope="row" style="padding-top:0.2em;line-height:1.2em; padding-right:1.0em;">Team members</th><td style="line-height:1.3em;">Individual and team at international levels</td></tr><tr><th scope="row" style="padding-top:0.2em;line-height:1.2em; padding-right:1.0em;">Mixed gender</th><td style="line-height:1.3em;">Yes</td></tr><tr><th scope="row" style="padding-top:0.2em;line-height:1.2em; padding-right:1.0em;">Equipment</th><td style="line-height:1.3em;">Horse, appropriate horse tack</td></tr><tr><th scope="row" style="padding-top:0.2em;line-height:1.2em; padding-right:1.0em;">Venue</th><td style="line-height:1.3em;">Arena, indoor or outdoor</td></tr><tr><th colspan="2" style="text-align:center;background:#eee;">Presence</th></tr><tr><th scope="row" style="padding-top:0.2em;line-height:1.2em; padding-right:1.0em;">Country or region</th><td style="line-height:1.3em;">Worldwide</td></tr><tr><th scope="row" style="padding-top:0.2em;line-height:1.2em; padding-right:1.0em;">Olympic</th><td style="line-height:1.3em;">1912</td></tr><tr><th scope="row" style="padding-top:0.2em;line-height:1.2em; padding-right:1.0em;">Paralympic</th><td style="line-height:1.3em;">1996</td></tr></tbody></table>
+
+<p>&nbsp;</p>
+
+<style type="text/css">.example {
+             /* list-style-type: circle; */
+             background: #f1f1f9;/* rgb(251, 194, 175); */
+             font-size:20px;
+             padding: 30px;
+             border-style: dotted;
+             text-align: left;
+           }
+           li {
+             margin-bottom: 5px;
+             margin-top: 5px;
+             margin-left: 10px;
+           }
+
+           .good {
+             color: #22CC22;
+             font-weight:  bold;                    
+           }
+
+           .bad {
+             color: #FF0000;
+             font-weight:  bold;
+           }
+</style>
+<ul class="example">
+	<li>Write one fact statement that is <b>definitely true</b> based on the information the table.<br />
+	<table class="table">
+		<thead bgcolor="white">
+			<tr style="font-weight:bold;">
+				<td>Bad Examples</td>
+				<td>Good Examples</td>
+			</tr>
+		</thead>
+		<tbody bgcolor="white">
+			<tr>
+				<td><span class="bad">✘ Avoid:</span> The venue of Dressage is indoors or outdoors.<br><b>Reason:</b><i>While this is true, it literally restates information from the table. <i></td>
+				<td><span class="good">✔ Preferred:</span> Men and women can compete against each other indoors or outdoors in Dressage.<br><b>Reason:</b><i>To show that this statement is true, we need to use information from different rows of the table and we need to use the common knowledge that mix gender means both men and women.</i></td>
+			</tr>
+			<tr>
+				<td><span class="bad">✘ Avoid:</span> Dressage is an international sport. <br> <b>Reason:</b><i> While this is true, it literally restates information from the table.</b><i> </i></td>
+				<td><span class="good">✔ Preferred:</span> Individuals and teams can participate in the Olympics and Paralympics. <br> <b> Reason:</b><i> To show that this statement is true, we need to use information from different rows of the table and we need to have common knowledge that Olympics and Paralympics are international events.</i></td>
+			</tr>
+			<tr>
+				<td><span class="bad">✘ Avoid: </span>The first Dressage Paralympics was held in Atlanta from August 16 to 25. <br> <b>Reason: </b><i>Although this sentence is true; however, to show that it is true, we need to know that first Dressage Paralymics was first held in Atlanta.  This piece of information need not be commonly known. </i> </td>
+				<td><span class="good">✔ Preferred: </span> International Dressage event includes teams from more than one country. <br><b>Reason: </b><i>To show that this statement is true, we need to use information from different rows of the table and we need to have common knowledge that the word “worldwide” means more than one country.</i> </td></tr>
+		</tbody>
+	</table>
+	</li>
+	<li>Write one statement that <b>may or may not be true</b> based on the information in the table.<br />
+	<table class="table">
+		<thead bgcolor="white">
+			<tr style="font-weight:bold;">
+				<td>Bad Examples</td>
+				<td>Good Examples</td>
+			</tr>
+		</thead>
+		<tbody bgcolor="white">
+			<tr>
+				<td><span class="bad">✘ Avoid:</span> The FEI is a well run body that governs dressage.<br><b>Reason: </b><i>This statement expresses a subjective/ personal opinion. Here, the table does not commit to whether it is or is not true, but please avoid such statements that express personal opinions.</i></td>
+				<td><span class="good">✔ Preferred:</span> Dressage is the only outdoor equestrian sports governed by FEI. <br><b>Reason: </b><i>Although this may be true, there is no information in the table to verify that Dressage (outdoor/indoor Equestrian sports) is the “only” sport governed by FEI.</i></td>
+			</tr>
+			<tr>
+				<td><span class="bad">✘ Avoid:</span> Dressage has a presence in the United States of America. <br><b>Reason: </b><i>While this may or may not be true, it uses the name of a place not mentioned in the table.</i> </td>
+				<td><span class="good">✔ Preferred:</span> A Dressage athlete can participate in both individual and team events.<br><b>Reason: </b><i>While this may be true, there is no information in the table to verify that the same athlete can participate in both events.</i></td>
+			</tr>
+			<tr>
+				<td><span class="bad">✘ Avoid:</span> Dressage male competitors are better than female Dressage ones. <br><b>Reason: </b><i>This statement expresses a subjective/ personal opinion. Here, the table does not commit to whether it is or is not true, but please avoid such statements that express personal opinions.</i></td>
+				<td><span class="good">✔ Preferred:</span> Each country has a National Federation for Equestrian Sports. <br><b>Reason: </b><i>While this may be true, we don’t have information in the table to verify that National Federations exist, however, an International Federation may implyimplies the existence of National Federations in many countries but not all.</i></td>
+			</tr>
+		</tbody>
+	</table>
+	<br />
+    </li>
+	<li>Write one statement that is <b>definitely false</b> based on the information in the table. <i>This is different from the "maybe correct" category above because this statement is definitely false.</i></li>
+	<table class="table">
+		<thead bgcolor="white">
+			<tr style="font-weight:bold;">
+				<td>Bad Examples</td>
+				<td>Good Examples</td>
+			</tr>
+		</thead>
+		<tbody bgcolor="white">
+			<tr>
+				<td><span class="bad">✘ Avoid:</span> Dressage is not an Olympics event. <br><b>Reason: </b><i>While this statement is false, it literally contradicts the information from the table.</i></td>
+				<td><span class="good">✔ Preferred:</span> Dressage was included in the Olympics and Paralympics in the same year.<br><b>Reason: </b><i>To show that this statement is false we need to use information from different rows of the table.</i></td>
+			</tr>
+			<tr>
+				<td><span class="bad">✘ Avoid:</span> Dressage was introduced in the Olympics in 1974. <br><b>Reason: </b><i>While this statement is false, it literally contradicts information from the table.</i></td>
+				<td><span class="good">✔ Preferred:</span> Dressage has an older history in the Paralympics than the Olympics. <br><b>Reason: </b><i>To show that this statement is false, we need to use information from different rows of the table.</i></td>
+			</tr>
+			<tr>
+				<td><span class="bad">✘ Avoid:</span> Dressage doesn’t have a governing body. <br><b>Reason: </b><i>While this is false, it literally contradicts the information from the table.</i></td></td>
+				<td><span class="good">✔ Preferred:</span> FEI governs Dressage only in the USA.</br><b>Reason: </b><i>To show that this statement is false, we need to use the fact that that FEI being an international body, it governs the sport in multiple countries.</i></td>
+			</tr>
+		</tbody>
+	</table>
+	<br />
+	<br />
+	</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<!-- End Instructions --><!-- Survey Link Layout --><!-- End Content for Worker --><!-- Input from Worker -->
+
+<!-- End Instructions --><!-- Survey Link Layout --><!-- End Content for Worker --><!-- Input from Worker -->
+
+<div class="container">
+  <div class="row" id="workContent">
+<!--<ul class="example">-->
+<!--<p align="left"><b><span class="bad">Attention</span></b></p>-->
+<!--<li>Please <b>read the above instructions carefully</b> before any attempts to answer the questions.</li>-->
+<!--<li>Using only the table and <b>what you believe most people know</b> about the world.</li>-->
+<!--<li><b>Avoid restating information</b> from the table literally. Write statements that <b>require inference</b>. </li>-->
+<!--<li>Please write <b>grammatically correct and complete sentences</b>.</li>-->
+<!--<li>(Optional) To provide your feedback on the task, please use the following <a href="https://www.w3schools.com/html/">link</a>.</li>-->
+<!--</ul>-->
+    <div class="col-xs-12 col-sm-12 image" align="center">${table1}</div>
+
+    <div class="col-xs-8 col-sm-8 fields">
+      <div class="form-group">
+        <label for="tag1">
+          Write one fact statement that is <b>definitely true</b> based on the information in the table.
+        </label>
+        <input class="form-control" id="tag1" name="tag1" required="" size="180" type="text" />
+      </div>
+
+      <div class="form-group">
+        <label for="tag2">
+          Write one statement that <b>may or may not be true</b> based on the information in the table. 
+        </label>
+        <input class="form-control" id="tag2" name="tag2" required="" size="180" type="text" />
+      </div>
+
+      <div class="form-group">
+        <label for="tag3">
+          Write one statement that is <b>definitely false</b> based on the information in the table.
+        </label>
+        <input class="form-control" id="tag3" name="tag3" required="" size="180" type="text" />
+      </div>
+      <b>(Optional) To provide your feedback on the task, please use the following <a href="https://goo.gl/forms/fcu6aVrvj7aJzpij2" target="_blank" >link</a></b>
+      <p>&nbsp;</p>
+    </div>
+    
+  </div>
+</div>
+</section>
+<!-- Please note that Bootstrap CSS/JS and JQuery are 3rd party libraries that may update their url/code at any time. Amazon Mechanical Turk (MTurk) is including these libraries as a default option for you, but is not responsible for any changes to the external libraries --><!-- External CSS references -->
+<link crossorigin="anonymous" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.0.3/css/bootstrap.min.css" integrity="sha384-IS73LIqjtYesmURkDE9MXKbXqYA8rvKEp/ghicjem7Vc3mGRdQRptJSz60tvrB6+" rel="stylesheet" /><!-- Open internal style sheet -->
+<style type="text/css">#collapseTrigger{
+  color:#fff;
+  display: block;
+  text-decoration: none;
+}
+#submitButton{
+  white-space: normal;
+}
+.image{
+  margin-bottom: 15px; 
+}
+/* CSS for breaking long words/urls */
+.dont-break-out {
+  overflow-wrap: break-word;
+  word-wrap: break-word;
+  -ms-word-break: break-all;
+  word-break: break-all;
+  word-break: break-word;
+  -ms-hyphens: auto;
+  -moz-hyphens: auto;
+  -webkit-hyphens: auto;
+  hyphens: auto;
+}
+</style>

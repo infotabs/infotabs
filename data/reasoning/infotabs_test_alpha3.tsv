@@ -1,0 +1,161 @@
+annotater_id	table_id	hypothesis	label	consensus	expert3	expert2	expert1
+GW28	T2264	Sir Leo Hielscher Bridges was built for vehicles to cross over Brisbane River.	E	multirowreasoning,simplelookup	multirowreasoning,simplelookup	multirowreasoning,simplelookup	multirowreasoning,simplelookup
+GW28	T2248	ACT is a popular standardized exam used by Colleges and Universities for admissions.	E	KCS,subjectiveoot	KCS,subjectiveoot	KCS,subjectiveoot	KCS,subjectiveoot
+GW86	T2264	Sir Leo Hielscher Bridges was open for 25 years before being closed for new construction.	N	KCS,temporal,multirowreasoning	KCS,temporal,multirowreasoning	KCS,temporal,multirowreasoning	KCS,temporal,multirowreasoning
+GW1	T2249	An Aerospace Engineer has more activity sectors than fields of employment.	C	multirowreasoning,numerical	multirowreasoning,numerical	multirowreasoning,numerical	multirowreasoning,numerical
+GW86	T2263	The Second-generation Moto G can accept a 64 GB removable MicroSD card.	N	numerical	numerical	numerical	numerical
+GW86	T2263	The Second-generation Moto G has the same number of cameras as it has microphones.	E	coref,multirowreasoning,numerical	coref,multirowreasoning,numerical	coref,multirowreasoning,numerical	coref,multirowreasoning,numerical
+GW1	T2260	Halloween has more celebrations than observances.	E	multirowreasoning,numerical	multirowreasoning,numerical	multirowreasoning,numerical	multirowreasoning,numerical
+GW86	T2264	Sir Leo Hielscher Bridges is greater in width than height.	C	multirowreasoning,numerical	multirowreasoning,numerical	multirowreasoning,numerical	multirowreasoning,numerical
+GW28	T2256	Dental Admission Test is a standardized exam for candidates to dental schools.	E	simplelookup	simplelookup	simplelookup	simplelookup
+GW86	T2252	The Bittern Line has seen service in three different centuries.	C	KCS,temporal	KCS,temporal	KCS,temporal	KCS,temporal
+GW1	T2248	The ACT is the only test that ACT Inc. administers.	N	quantification,subjectiveoot	quantification,subjectiveoot	quantification,subjectiveoot	quantification,subjectiveoot
+GW1	T2251	Anorexia nervosa has the same number of symptoms as complications.	E	multirowreasoning,numerical	multirowreasoning,numerical	multirowreasoning,numerical	multirowreasoning,numerical
+GW12	T2251	Hospitalization is the only way to treat someone with anorexia nervosa.	N	quantification	quantification	numerical,quantification	numerical,quantification
+GW52	T2258	Ellis Bridge is still in use today.	C	temporal	temporal	temporal	lexicalreasoning,temporal
+GW28	T2265	Social anxiety disorder id s psychiatric condition that usually appears in ones teenage years.	E	multirowreasoning,simplelookup	multirowreasoning,simplelookup	multirowreasoning,simplelookup	multirowreasoning,simplelookup
+GW28	T2249	Aerospace Engineer is a trade where one can learn from an experience master engineer.	C	entitytype,subjectiveoot	entitytype,subjectiveoot	entitytype,subjectiveoot	entitytype,subjectiveoot
+GW1	T2267	Historically, the term Quadriplegia was used before Tetraplegia.	N	subjectiveoot	subjectiveoot	subjectiveoot	subjectiveoot
+GW1	T2255	The origin and destination of Delta Air Lines Flight 1080 were on opposite sides of the country.	C	KCS,multirowreasoning	KCS,multirowreasoning	KCS,multirowreasoning	KCS,multirowreasoning
+GW1	T2265	Social anxiety disorder was known first in history as Social phobia.	N	subjectiveoot	subjectiveoot	subjectiveoot	subjectiveoot
+GW28	T2260	Halloween is observed by many people around the world.	E	quantification,subjectiveoot	quantification,subjectiveoot	quantification,subjectiveoot	quantification,subjectiveoot
+GW28	T2252	The Bittern Line was discontinued a century after it opened.	C	subjectiveoot,temporal,coref	subjectiveoot,temporal,coref	subjectiveoot,temporal,coref	subjectiveoot,temporal,coref
+GW86	T2268	The Union Turnpike Manhattan–Queens Express entered into service less than half a century ago.	C	temporal	temporal	temporal	temporal
+GW110	T2248	The ACT offers an optional writing section.	E	simplelookup	simplelookup	simplelookup	simplelookup
+GW1	T2254	The lowest altitude of Cumulus clouds can be 6,000 feet lower than the highest altitudes they occur at.	C	coref,entitytype,numerical	coref,entitytype,numerical	coref,entitytype,numerical	coref,entitytype,numerical
+GW28	T2268	Union Turnpike Manhattan–Queens Express makes a brief stop in the Bronx.	C	subjectiveoot	subjectiveoot	subjectiveoot	subjectiveoot
+GW86	T2269	Vistara first began operations more than a year after the company was founded.	E	coref,multirowreasoning,temporal	coref,multirowreasoning,temporal	coref,multirowreasoning,temporal	coref,multirowreasoning,temporal
+GW28	T2258	The length of Ellis Bridge is about 100x that of its width.	C	coref,multirowreasoning,numerical	coref,multirowreasoning,numerical	coref,multirowreasoning,numerical	KCS,coref,multirowreasoning,numerical
+GW86	T2254	Cumulus clouds are usually associated with rain.	C	KCS,lexicalreasoning,entitytype	KCS,lexicalreasoning,entitytype	KCS,lexicalreasoning,entitytype	KCS,lexicalreasoning,entitytype
+GW28	T2262	Hydrogen,  1H was named by a frenchman.	N	KCS	KCS	KCS	KCS
+GW28	T2254	Cumulus clouds usually rain the most.	C	entitytype,lexicalreasoning,quantification	entitytype,lexicalreasoning,quantification	entitytype,lexicalreasoning,quantification	entitytype,lexicalreasoning,quantification
+GW28	T2247	abc conjecture is part of Number theory.	E	simplelookup	simplelookup	simplelookup	simplelookup
+GW28	T2268	Union Turnpike Manhattan–Queens Express has public Wi-Fi available for all passengers.	N	lexicalreasoning,subjectiveoot	lexicalreasoning,subjectiveoot	lexicalreasoning,subjectiveoot	lexicalreasoning,subjectiveoot
+GW12	T2251	In 2015, nearly 2. 9 million people died of anorexia.	C	multirowreasoning	simplelookup,multirowreasoning	multirowreasoning,numerical	simplelookup,multirowreasoning
+GW28	T2250	All locations are owned and operated by Aida themselves.	N	subjectiveoot,coref	subjectiveoot,coref	subjectiveoot,coref	subjectiveoot,coref
+GW28	T2261	Hilton Hotels & Resorts has properties in every single country on earth.	N	KCS,numerical,subjectiveoot,quantification	KCS,numerical,subjectiveoot,quantification	KCS,numerical,subjectiveoot,quantification	KCS,numerical,subjectiveoot,quantification
+GW86	T2252	The Bittern Line operates on a variable number of tracks over its length.	E	coref,numerical	coref,numerical	coref,numerical	coref,numerical
+GW86	T2250	Aida locations occur exclusively in Austria.	N	subjectiveoot	subjectiveoot	subjectiveoot	subjectiveoot
+GW1	T2251	A 38 year old is more likely to experience Anorexia nervosa than an 18 year old.	C	temporal,quantification	temporal,quantification	temporal,quantification	temporal,quantification
+GW110	T2265	Social anxiety is a type of phobia.	E	namedentity,lexicalreasoning	namedentity,lexicalreasoning	namedentity,lexicalreasoning	namedentity,lexicalreasoning
+GW1	T2252	The exact date the Bittern Line opened is not known.	E	temporal	temporal	temporal	temporal
+GW111	T2267	Quadriplegia is caused by damaging the internal organs.	C	KCS	KCS	KCS	KCS
+GW28	T2258	Ellis Bridge is over a century old.	E	temporal	temporal	temporal	temporal
+GW86	T2252	The Bittern Line was fully operational by 1874.	N	lexicalreasoning,temporal	lexicalreasoning,temporal	lexicalreasoning,temporal	lexicalreasoning,temporal
+GW28	T2255	Delta Air Lines Flight 1080 was piloted by two experienced retired Airforce fighter pilots.	N	numerical,subjectiveoot	numerical,subjectiveoot	numerical,subjectiveoot	numerical,subjectiveoot
+GW28	T2253	Brighton Main Line stopped operation a century after it started.	C	coref,subjectiveoot,temporal	coref,subjectiveoot,temporal	coref,subjectiveoot,temporal	coref,subjectiveoot,temporal
+GW28	T2249	Aerospace Engineer are well compensated with bonuses and equity shares.	N	subjectiveoot	subjectiveoot	subjectiveoot	subjectiveoot
+GW28	T2249	Aerospace Engineers need a minimum of a Bachelor's Degree.	E	KCS	KCS	KCS	KCS
+GW111	T2263	The Titan is a great recording device.	N	entitytype,subjectiveoot	entitytype,subjectiveoot	entitytype,subjectiveoot	entitytype,subjectiveoot
+GW28	T2261	Hilton Hotels & Resorts is a publicly-traded company in the gaming industry.	C	KCS,multirowreasoning	KCS,multirowreasoning	KCS,multirowreasoning	KCS,multirowreasoning
+GW1	T2261	Hilton Hotels & Resorts has over 600 properties as of the end of 2018.	C	lexicalreasoning,numerical,temporal	lexicalreasoning,numerical,temporal	lexicalreasoning,numerical,temporal	lexicalreasoning,numerical,temporal
+GW86	T2257	The Eastern Air Lines Flight 304 incident occurred shortly after takeoff.	N	entitytype,subjectiveoot	entitytype,subjectiveoot	entitytype,subjectiveoot	entitytype,subjectiveoot
+GW1	T2258	The Ellis Bridge has been a protected site since the 19th century.	C	temporal	temporal	temporal	temporal
+GW1	T2257	Eastern Air Lines Flight 304 was the only documented plane crash in 1964.	N	entitytype,quantification,subjectiveoot	entitytype,quantification,subjectiveoot	entitytype,quantification,subjectiveoot	entitytype,quantification,subjectiveoot
+GW12	T2259	Tulip is the name of a home computer released 41 years ago.	C	subjectiveoot	subjectiveoot	subjectiveoot	subjectiveoot
+GW86	T2251	Anorexia nervosa usually results in death.	C	KCS,numerical	KCS,numerical	KCS,numerical	KCS,numerical
+GW28	T2250	Aida is an Austrian chain that sells coffee and confectionary.	E	entitytype,multirowreasoning	entitytype,multirowreasoning	entitytype,multirowreasoning	entitytype,multirowreasoning
+GW28	T2256	The Dental Admission Test is used in addition to the GRE when applying to dental schools.	N	KCS,subjectiveoot	KCS,subjectiveoot	KCS,subjectiveoot	KCS,subjectiveoot
+GW86	T2255	The Delta Air Lines Flight 1080 incident occurred at takeoff.	C	KCS,entitytype,multirowreasoning	KCS,entitytype,multirowreasoning	KCS,entitytype,multirowreasoning	KCS,entitytype,multirowreasoning
+GW111	T2267	Quadriplegia can sometimes lead to death.	N	subjectiveoot	subjectiveoot	subjectiveoot	subjectiveoot
+GW1	T2262	Hydrogen was named in the early part of the 18th century.	C	temporal	temporal	temporal	temporal
+GW1	T2256	The Dental Admission Test is the only test or exam the American Dental Association administers.	N	subjectiveoot,lexicalreasoning	subjectiveoot,lexicalreasoning	subjectiveoot,lexicalreasoning	subjectiveoot,lexicalreasoning
+GW28	T2255	Delta Air Lines Flight 1080 was a flight that took off in the Eastern United States and landed in the Midwest.	C	KCS,multirowreasoning	KCS,multirowreasoning	KCS,multirowreasoning	KCS,multirowreasoning
+GW111	T2263	The Titan is a 5.0 in. Android phone with front and rear cameras.	E	multirowreasoning,simplelookup	multirowreasoning,simplelookup	multirowreasoning,simplelookup	multirowreasoning,simplelookup
+GW1	T2257	Eastern Air Lines Flight 304 crashed in North America.	E	KCS,entitytype	KCS,entitytype	KCS,entitytype	KCS,entitytype
+GW1	T2247	There were more than a dozen consequences to the abc conjecture.	C	numerical	numerical	numerical	numerical
+GW86	T2251	Anorexia nervosa is considered to be a disease.	N	entitytype	entitytype	entitytype	entitytype
+GW28	T2257	Eastern Air Lines Flight 304 cause the parent company to go bankrupt.	N	subjectiveoot	subjectiveoot	subjectiveoot	subjectiveoot
+GW1	T2247	abc conjecture was conjectured late in the 20th century.	E	temporal	temporal	temporal	temporal
+GW28	T2269	Vistara has been profitable from its very first year.	N	subjectiveoot,coref	subjectiveoot,coref	subjectiveoot,coref	subjectiveoot,coref
+GW1	T2259	The Exidy Sorcerer was released over 4 decades ago.	E	temporal	temporal	temporal	temporal
+GW86	T2268	The Union Turnpike Manhattan–Queens Express serves over more than half a dozen communities in Queens.	E	numerical	numerical	numerical	numerical
+GW86	T2269	Vistara currently has more than 900 employees.	N	numerical,subjectiveoot	numerical,subjectiveoot	numerical,subjectiveoot	numerical,subjectiveoot
+GW28	T2257	Eastern Air Lines Flight 304 crashed and killed all aboard.	E	entitytype,multirowreasoning,numerical	entitytype,multirowreasoning,numerical	entitytype,multirowreasoning,numerical	entitytype,multirowreasoning,numerical
+GW52	T2253	Brighton Main Line varies when it comes to track numbers.	E	syntacticalteration,numerical	syntacticalteration,numerical	syntacticalteration,numerical	syntacticalteration,numerical
+GW28	T2259	Exidy Sorcerer was a home computer for personal use.	E	KCS	KCS	KCS	KCS
+GW28	T2247	abc conjecture is a centuries old term.	C	temporal	temporal	temporal	temporal
+GW110	T2248	The ACT is free for all students who take it.	C	coref,simplelookup	coref,simplelookup	coref,simplelookup	coref,simplelookup
+GW1	T2253	The Stewarts Lane depot of the Brighton Main Line opened before the Selhurst one.	N	subjectiveoot	subjectiveoot	subjectiveoot	subjectiveoot
+GW1	T2269	Vistara was founded in the 20th century.	C	temporal	temporal	temporal	temporal
+GW1	T2248	More time is spent on math when taking the ACT than on science.	E	temporal	temporal	temporal	temporal
+GW1	T2261	Hilton Hotels & Resorts' headquarters used to be somewhere other than Virginia.	N	subjectiveoot	subjectiveoot	subjectiveoot	subjectiveoot
+GW86	T2266	The stuntman occupation is always known by that name.	C	coref,quantification,lexicalreasoning	coref,quantification,lexicalreasoning	coref,quantification,lexicalreasoning	coref,quantification,lexicalreasoning
+GW1	T2269	Vistara's frequent-flyer program, Club Vistara, used to be called Club Vistara Plus.	N	subjectiveoot	subjectiveoot	subjectiveoot	subjectiveoot
+GW86	T2256	The DAT is primarily a written test.	C	simplelookup	simplelookup	simplelookup	simplelookup
+GW28	T2266	A stuntman can be a man or a woman.	N	entitytype	entitytype	entitytype,subjectiveoot	KCS,entitytype
+GW110	T2260	Halloween occurs the day before All Saints' Day.	N	temporal	temporal	temporal	KCS,temporal
+GW86	T2249	Aerospace engineering is considered to be a professional occupation.	E	syntacticalteration	syntacticalteration	syntacticalteration	syntacticalteration
+GW1	T2267	There are the same number of causes as diagnostic methods for Quadriplegia.	E	multirowreasoning,numerical	multirowreasoning,numerical	multirowreasoning,numerical	multirowreasoning,numerical
+GW1	T2246	The 2001 Gujarat earthquake happened in the Summer.	C	KCS,temporal	KCS,temporal	KCS,temporal	KCS,temporal
+GW28	T2252	The Bittern Line has been run profitably for decades.	N	subjectiveoot	subjectiveoot	subjectiveoot	subjectiveoot
+GW52	T2258	Ellis Bridge went under renovations during its history.	N	KCS,multirowreasoning,temporal	KCS,multirowreasoning,temporal	KCS,multirowreasoning,temporal	KCS,multirowreasoning,temporal
+GW12	T2259	The Exidy Sorcerer had 4 Kb RAM and no sound.	N	lexicalreasoning,multirowreasoning	lexicalreasoning,multirowreasoning	lexicalreasoning,multirowreasoning	lexicalreasoning,multirowreasoning
+GW1	T2260	Halloween used to be on a different date.	N	subjectiveoot	subjectiveoot	subjectiveoot	subjectiveoot
+GW1	T2267	Quadriplegia has three known types.	C	numerical	numerical	numerical	numerical
+GW110	T2265	Social anxiety disorder is more common in patients diagnosed with major depressive disorder.	N	KCS,subjectiveoot	KCS,subjectiveoot	KCS,subjectiveoot	KCS,subjectiveoot
+GW28	T2258	Ellis Bridge accommodates both cars, trains, and pedestrians.	N	KCS	KCS	KCS	KCS
+GW1	T2249	An Aerospace Engineer knows more about astronautics than aeronautics.	N	subjectiveoot	subjectiveoot	subjectiveoot	subjectiveoot
+GW110	T2260	Everybody who celebrates Halloween goes to church.	C	subjectiveoot	subjectiveoot	subjectiveoot	subjectiveoot
+GW28	T2261	Hilton Hotels & Resorts is a century old business.	E	entitytype,temporal	entitytype,temporal	entitytype,temporal	entitytype,temporal
+GW28	T2255	Delta Air Lines Flight 1080 was involved in a potential crash caused by a malfunctioning elevator.	E	entitytype	entitytype	entitytype	entitytype
+GW28	T2250	Aida sells ice cream in addition to coffee.	C	KCS,subjectiveoot	KCS,subjectiveoot	KCS,subjectiveoot	KCS,subjectiveoot
+GW86	T2250	Aida headquarters are located in the same city where the company was founded.	E	entitytype,KCS,multirowreasoning	entitytype,KCS,multirowreasoning	entitytype,KCS,multirowreasoning	entitytype,KCS,multirowreasoning
+GW1	T2264	The construction cost in 2010 was more than 3 times the cost in 1986 of the Sir Leo Hielscher Bridges.	E	numerical	numerical	numerical	numerical
+GW86	T2256	Questions on the DAT test more than 5 different areas of knowledge.	E	lexicalreasoning,numerical,multirowreasoning	lexicalreasoning,numerical,multirowreasoning	lexicalreasoning,numerical,multirowreasoning	lexicalreasoning,numerical,multirowreasoning
+GW1	T2259	An Exidy Sorcerer could not be modified to add sound.	C	lexicalreasoning,negation	lexicalreasoning,negation	lexicalreasoning,negation	lexicalreasoning,negation
+GW52	T2253	Brighton Main Line has undergone repairs in its history.	N	coref,subjectiveoot	coref,subjectiveoot	coref,subjectiveoot	coref,subjectiveoot
+GW1	T2268	It wasn't until 10 years after it's opening that the Union Turnpike Manhattan–Queens Express started allowing transfers.	N	subjectiveoot,coref	subjectiveoot,coref	subjectiveoot,coref	subjectiveoot,coref
+GW86	T2251	Anorexia nervosa is associated with a medical specialty.	E	entitytype	entitytype	entitytype	entitytype
+GW28	T2264	Sir Leo Hielscher Bridges is the youngest bridge in Brisbane, Australia.	N	entitytype,subjectiveoot,namedentity	entitytype,subjectiveoot,namedentity	entitytype,subjectiveoot,namedentity	entitytype,subjectiveoot,namedentity
+GW1	T2256	The Dental Admission Test started being offered in the middle of the 20th century.	E	temporal	temporal	temporal	temporal
+GW28	T2254	Cumulus clouds are located high in the atmosphere.	E	KCS,numerical,entitytype	KCS,numerical,entitytype	KCS,numerical,entitytype	KCS,numerical,entitytype
+GW28	T2253	Brighton Main Line operates in England.	E	KCS	KCS	KCS	KCS
+GW1	T2255	Delta Air Lines Flight 1080 is the only Lockheed L-1011 that ever crashed.	N	quantification,subjectiveoot	quantification,subjectiveoot	quantification,subjectiveoot	quantification,subjectiveoot
+GW1	T2249	An Aerospace Engineer has to graduate from a college.	E	KCS	KCS	KCS	KCS
+GW28	T2254	Cumulus clouds are the most common type of clouds in the atmosphere.	N	KCS,subjectiveoot,entitytype	KCS,subjectiveoot,entitytype	KCS,subjectiveoot,entitytype	KCS,subjectiveoot,entitytype
+GW28	T2267	Quadriplegia is a trivial medical condition that does not affect mobility.	C	KCS,subjectiveoot,negation,entitytype	KCS,subjectiveoot,negation,entitytype	KCS,subjectiveoot,negation,entitytype	KCS,subjectiveoot,negation,entitytype
+GW110	T2247	The abc conjecture was established in the 1970s by David Masser.	C	lexicalreasoning,multirowreasoning	lexicalreasoning,multirowreasoning	lexicalreasoning,multirowreasoning	lexicalreasoning,multirowreasoning
+GW1	T2262	Hydrogen's Van der Waals radius is over 100.	E	numerical,ellipsis	numerical,ellipsis	numerical,ellipsis	numerical,ellipsis
+GW28	T2260	Halloween celebrates the devil and the dark forces.	N	subjectiveoot	subjectiveoot	subjectiveoot	subjectiveoot
+GW86	T2262	Hydrogen is a nonreactive metal.	C	negation	negation	negation	negation
+GW28	T2262	Hydrogen,  1H was named a decade after it was discovered.	C	coref,multirowreasoning,temporal	coref,multirowreasoning,temporal	coref,multirowreasoning,temporal	coref,multirowreasoning,temporal
+GW28	T2265	Social anxiety disorder is curable with hugs and kisses.	N	subjectiveoot	subjectiveoot	subjectiveoot	subjectiveoot
+GW1	T2250	Aida's founder is likely male.	E	KCS	KCS	KCS	KCS
+GW1	T2268	The Union Turnpike Manhattan–Queens Express started service in the first half of the 20th century.	C	temporal	temporal	temporal	temporal
+GW28	T2253	Brighton Main Line also accommodates freight trains.	N	KCS,subjectiveoot	KCS,subjectiveoot	KCS,subjectiveoot	KCS,subjectiveoot
+GW1	T2253	Brighton Main Line has 3 termini.	E	numerical	numerical	numerical	numerical
+GW1	T2252	The Bittern Line opened with 8 stations and added 2 more later.	N	numerical,subjectiveoot	numerical,subjectiveoot	numerical,subjectiveoot	numerical,subjectiveoot
+GW1	T2258	When the Ellis Bridge closed in 1997, it took 2 years to reopen.	E	coref,multirowreasoning,temporal	coref,multirowreasoning,temporal	coref,multirowreasoning,temporal	coref,multirowreasoning,temporal
+GW1	T2257	There was 1 survivor of Eastern Air Lines Flight 304.	C	numerical	numerical	numerical	numerical
+GW1	T2260	Halloween is directly related to more than 15 holidays.	C	KCS,numerical	KCS,numerical	KCS,numerical	KCS,numerical
+GW110	T2248	The ACT is offered in France.	N	subjectiveoot	subjectiveoot	subjectiveoot	subjectiveoot
+GW28	T2246	The 2001 Gujarat earthquake was the most destructive natural disaster in Indian history.	N	entitytype,multirowreasoning,subjectiveoot,KCS	entitytype,multirowreasoning,subjectiveoot,KCS	entitytype,multirowreasoning,subjectiveoot,KCS	entitytype,multirowreasoning,subjectiveoot,KCS
+GW111	T2267	Quadriplegia is also sometimes known as Tetraplegia.	E	lexicalreasoning	lexicalreasoning	lexicalreasoning	lexicalreasoning
+GW28	T2260	Halloween is typically celebrated in the winter.	C	KCS,temporal	KCS,temporal	KCS,temporal	KCS,temporal
+GW86	T2256	DAT scores are sometimes valid for more than 3 years.	N	quantification,temporal	quantification,temporal	quantification,temporal	quantification,temporal
+GW86	T2261	Hilton Hotels & Resorts has been in operation under the same name for over a century.	C	entitytype,subjectiveoot	entitytype,subjectiveoot	entitytype,subjectiveoot	entitytype,subjectiveoot
+GW28	T2252	The Bittern Line operates in England.	E	simplelookup	simplelookup	simplelookup	simplelookup
+GW28	T2257	More crew than passengers died in the crash of Eastern Air Lines Flight 304.	C	entitytype,multirowreasoning,numerical	entitytype,multirowreasoning,numerical	entitytype,multirowreasoning,numerical	entitytype,multirowreasoning,numerical
+GW86	T2249	Aerospace engineering does not require a college diploma.	C	KCS,negation	KCS,negation	KCS,negation	KCS,negation
+GW1	T2266	Stuntman have multiple other names they are called by.	E	coref,quantification	coref,quantification	coref,quantification	coref,quantification
+GW86	T2249	A Bachelor's Degree is the most advanced degree offered in aerospace engineering.	N	subjectiveoot	subjectiveoot	subjectiveoot	subjectiveoot
+GW1	T2256	The Dental Admission Test is only offered in the Fall or Spring.	C	quantification,temporal	quantification,temporal	quantification,temporal	quantification,temporal
+GW1	T2253	Brighton Main Line serves three locales.	C	numerical	numerical	numerical	numerical
+GW86	T2263	The Second-generation Moto G is the latest model in its series.	C	entitytype,coref	entitytype,coref	entitytype,coref	entitytype,coref
+GW12	T2251	Anorexia nervosa is a psychiatry disease also known as anorexia.	E	multirowreasoning,simplelookup	multirowreasoning,simplelookup	multirowreasoning,simplelookup	multirowreasoning,simplelookup
+GW1	T2269	Vistara has a web presence.	E	KCS	KCS	KCS	KCS
+GW28	T2259	Exidy Sorcerer primarily played games.	N	subjectiveoot	subjectiveoot	subjectiveoot	subjectiveoot
+GW110	T2265	Social anxiety is typically diagnosed for the first time in older patients.	C	KCS	KCS	KCS	KCS
+GW28	T2247	abc conjecture was produced in the summer of 1985.	N	subjectiveoot	subjectiveoot	subjectiveoot	subjectiveoot
+GW1	T2246	In local time, the 2001 Gujarat earthquake took place in the morning.	E	KCS,temporal	KCS,temporal	KCS,temporal	KCS,temporal
+GW86	T2261	Other than its headquarters, Hilton Hotels & Resorts has locations in the United States.	N	multirowreasoning,numerical,coref	multirowreasoning,numerical,coref	multirowreasoning,numerical,coref	multirowreasoning,numerical,coref
+GW28	T2263	Second-generation Moto G was the best selling model in Motorola history.	N	entitytype,subjectiveoot,namedentity	entitytype,subjectiveoot,namedentity	entitytype,subjectiveoot,namedentity	entitytype,subjectiveoot,namedentity
+GW86	T2254	Cumulus are sometimes found at an altitude of under 2000 feet.	N	numerical	numerical	numerical	numerical
+GW28	T2263	Second-generation Moto G sports two cameras of equal specs.	C	multirowreasoning,numerical	multirowreasoning,numerical	multirowreasoning,numerical	multirowreasoning,numerical
+GW28	T2266	A stuntman works in the academic field.	C	lexicalreasoning,KCS	lexicalreasoning,KCS	lexicalreasoning,KCS	lexicalreasoning,KCS
+GW86	T2246	The 2001 Gujarat earthquake was felt in a single country.	C	numerical,KCS,lexicalreasoning	numerical,KCS,lexicalreasoning	numerical,KCS,lexicalreasoning	numerical,KCS,lexicalreasoning
+GW1	T2258	More alloy than steel was used as a material in constructing the Ellis Bridge the last time.	N	multirowreasoning,subjectiveoot	multirowreasoning,subjectiveoot	multirowreasoning,subjectiveoot	multirowreasoning,subjectiveoot
+GW1	T2254	The abbreviation of Cumulus was not Cu originally.	N	subjectiveoot,negation	subjectiveoot,negation	subjectiveoot,negation	subjectiveoot,negation
+GW1	T2254	There are more species of Cumulus than there are varieties.	E	multirowreasoning,numerical	multirowreasoning,numerical	multirowreasoning,numerical	multirowreasoning,numerical
+GW1	T2264	The Sir Leo Hielscher Bridges have tolls on them.	N	KCS,entitytype,subjectiveoot,coref	KCS,entitytype,subjectiveoot,coref	KCS,entitytype,subjectiveoot,coref	KCS,entitytype,subjectiveoot,coref

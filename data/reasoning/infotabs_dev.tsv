@@ -1,0 +1,161 @@
+annotater_id	table_id	hypothesis	label	consensus	expert1	expert2	expert3
+GW1	T200	Bruce Willis will have more children.	N	subjectiveoot,quantification	subjectiveoot,quantification	subjectiveoot,quantification	subjectiveoot,quantification
+GW14	T1506	King Abdullah the Second rules from the largest city in the Hashemite Kingdom of Jordan.	E	KCS,multirowreasoning,namedentity	KCS,multirowreasoning,namedentity	KCS,multirowreasoning,namedentity	KCS,multirowreasoning,namedentity
+GW0	T200	Bruce Willis was born in the same state he currently resides.	E	KCS,coref,multirowreasoning	KCS,coref,multirowreasoning	KCS,coref,multirowreasoning	KCS,coref,multirowreasoning
+GW4	T200	Bruce Willis moved to the United States of America as a child.	N	KCS,multirowreasoning,temporal,subjectiveoot,namedentity	KCS,multirowreasoning,temporal,subjectiveoot,namedentity	KCS,multirowreasoning,temporal,subjectiveoot,namedentity	KCS,multirowreasoning,temporal,subjectiveoot,namedentity
+GW14	T1506	Omar Razzaz has never held office in a predominantly Arabic populace.	C	KCS,multirowreasoning,numerical,quantification	KCS,multirowreasoning,numerical,quantification	KCS,entitytype,multirowreasoning,numerical, quantification	KCS,multirowreasoning,numerical,quantification
+GW1	T200	Bruce Willis has been making movies for close to 50 years.	C	KCS,quantification,temporal	KCS,quantification,temporal	KCS,quantification,temporal	KCS,quantification,temporal
+GW1	T1506	Hashemite Kingdom of Jordan has more Armenians in it than Christians.	C	KCS,coref,numerical,multirowreasoning	KCS,coref,numerical,multirowreasoning	KCS,coref,numerical,multirowreasoning	KCS,coref,numerical,multirowreasoning
+GW0	T200	Bruce Willis has a masters degree from Montclair State University.	N	subjectiveoot,KCS	subjectiveoot,KCS	subjectiveoot,KCS	subjectiveoot,KCS
+GW4	T1506	Hashemite Kingdom of Jordan does not have any democracy.	C	KCS,negation	KCS,negation	KCS,negation	KCS,negation
+GW1	T200	Bruce Willis was born in the Spring of 1955.	E	KCS,temporal	KCS,temporal	KCS,temporal	KCS,temporal
+GW4	T1506	The Hashemite Kingdom of Jordan is mostly Arab.	E	numerical,quantification	numerical,quantification	numerical,quantification	numerical,quantification
+GW4	T200	Bruce Willis has had three wives.	C	KCS,numerical	KCS,numerical	KCS,numerical	KCS,numerical
+GW1	T1506	Hashemite Kingdom of Jordan is only about 1/25th Christian.	E	KCS,numerical	KCS,numerical	KCS,numerical	KCS,numerical
+GW1	T63	Burt Reynolds only lived in Michigan and in Florida during his lifetime.	N	coref,multirowreasoning,quantification,subjectiveoot,temporal	coref,multirowreasoning,quantification,subjectiveoot,temporal	coref,multirowreasoning,quantification,subjectiveoot,temporal	coref,multirowreasoning,quantification,subjectiveoot,temporal
+GW1	T1506	If Abdullah II stops being monarch of Hashemite Kingdom of Jordan, then Omar Razzaz will take his place.	N	multirowreasoning,coref,KCS,subjectiveoot	multirowreasoning,coref,KCS,subjectiveoot	multirowreasoning,coref,KCS,subjectiveoot	multirowreasoning,coref,KCS,subjectiveoot
+GW4	T63	Burt Reynolds was born in the winter of 1936.	E	KCS,temporal	KCS,temporal	KCS,temporal	KCS,temporal
+GW14	T1506	There are more members in the Lower House than the Upper House of the Hashemite Kingdom of Jordan.	N	numerical,subjectiveoot,quantification	numerical,subjectiveoot,quantification	numerical,subjectiveoot,quantification	numerical,subjectiveoot,quantification
+GW4	T63	Burt Reynolds is still alive today.	C	lexicalreasoning,temporal	lexicalreasoning,temporal	lexicalreasoning,temporal	lexicalreasoning,temporal
+GW4	T1506	Hashemite Kingdom of Jordan caters to Islam mostly.	N	quantification	quantification	quantification	quantification
+GW1	T63	Burt Reynolds was in the movie business for about 60 years.	E	KCS,multirowreasoning,temporal	KCS,multirowreasoning,temporal	KCS,multirowreasoning,temporal	KCS,multirowreasoning,temporal
+GW74	T1698	Fox Star Studios is based in India.	N	subjectiveoot	subjectiveoot	subjectiveoot	subjectiveoot
+GW84	T1698	Judwaa 2 is the first movie produced by Sajid Nadiadwala.	N	entitytype,subjectiveoot	entitytype,subjectiveoot	entitytype,subjectiveoot	entitytype,subjectiveoot
+GW2	T63	Burt Reynolds has had 2 failed marriages.	E	numerical	KCS,numerical	lexicalreasoning,numerical	lexicalreasoning,numerical
+GW2	T63	Burt Reynolds has a daughter.	N	lexicalreasoning,subjectiveoot	lexicalreasoning,subjectiveoot	lexicalreasoning,subjectiveoot	coref,subjectiveoot
+GW84	T1698	Judwaa 2 made over twice as much money as it was budgeted.	E	multirowreasoning,numerical,KCS	multirowreasoning,numerical,KCS	multirowreasoning,numerical,KCS	multirowreasoning,numerical,KCS
+GW1	T63	Burt Reynolds was born in the Summer of 1936.	C	KCS,temporal	KCS,temporal	KCS,temporal	KCS,temporal
+GW2	T63	Burt Reynolds died in the winter.	C	KCS,temporal	KCS,temporal	KCS,temporal	KCS,temporal
+GW74	T1698	Judwaa 2 earned more than 3 times its budget.	E	KCS,multirowreasoning,numerical	KCS,multirowreasoning,numerical	KCS,multirowreasoning,numerical	KCS,multirowreasoning,numerical
+GW4	T63	Burt Reynolds is known for being a director and producer.	N	subjectiveoot	subjectiveoot	subjectiveoot	subjectiveoot
+GW28	T1698	Judwaa 2 is a Hindi-language Indian movie.	E	multirowreasoning,entitytype	multirowreasoning,entitytype	multirowreasoning,entitytype	multirowreasoning,entitytype
+GW33	T473	Christopher Maurice Brown got many awards in his musical career	N	coref,quantification	coref,quantification	coref,quantification	coref,quantification
+GW28	T1698	Judwaa 2 is a sequel to Judwaa.	N	subjectiveoot	KCS,subjectiveoot	entitytype,subjectiveoot	KCS,subjectiveoot
+GW84	T1698	Judwaa 2 runs for less than two hours.	C	temporal	temporal	temporal	temporal
+GW4	T473	The rapper Chris Brown has never won any awards for his music.	C	multirowreasoning,coref	multirowreasoning,negation,coref	multirowreasoning,negation,coref	multirowreasoning,quantification,coref
+GW74	T1698	Judwaa 2 was edited and directed by the same person.	C	multirowreasoning,entitytype	multirowreasoning,entitytype	multirowreasoning,entitytype	multirowreasoning,entitytype
+GW28	T473	Chris Brown is an American singer.	E	subjectiveoot	subjectiveoot	subjectiveoot	subjectiveoot
+GW4	T473	Chris Brown became famous when they were 16 years old.	E	coref,multirowreasoning,subjectiveoot,temporal	coref,multirowreasoning,subjectiveoot,temporal	coref,multirowreasoning,subjectiveoot,temporal	coref,multirowreasoning,subjectiveoot,temporal
+GW28	T1698	Judwaa 2 was unprofitable for the studio.	C	KCS,multirowreasoning,numerical,negation	KCS,multirowreasoning,numerical,negation	KCS,multirowreasoning,numerical,negation	KCS,multirowreasoning,numerical,negation
+GW51	T917	Cairo is a city with a population well over 19 million.	E	KCS,numerical	KCS,numerical,quantification	KCS,numerical,subjectiveoot	KCS,numerical,quantification
+GW28	T917	Cairo is a cultural attraction for its ancient monuments.	N	KCS,coref,subjectiveoot	KCS,coref,subjectiveoot	KCS,coref,subjectiveoot	KCS,coref,subjectiveoot
+GW4	T473	The musician Chris Brown has recorded songs with Big Sean before.	N	KCS,entitytype,temporal	KCS,entitytype,temporal	KCS,entitytype,temporal	KCS,entitytype,temporal
+GW28	T917	Cairo is an overpopulated city in Egypt	E	KCS,subjectiveoot	KCS,subjectiveoot	KCS,subjectiveoot	KCS,subjectiveoot
+GW51	T917	Cairo is the largest city in the country of Egypt.	N	KCS,subjectiveoot	KCS,subjectiveoot	KCS,subjectiveoot	KCS,subjectiveoot
+GW33	T473	chrisbrownworld.com is Chris Brown's official website who is a Singer, rapper, songwriter, dance,r actor, record producer.	E	multirowreasoning,simplelookup	multirowreasoning,simplelookup	multirowreasoning,simplelookup	multirowreasoning,simplelookup
+GW28	T473	Chris Brown became active as a singer in his 20s.	C	multirowreasoning,temporal,coref	multirowreasoning,temporal,coref	multirowreasoning,temporal,coref	multirowreasoning,temporal,coref
+GW33	T473	Christopher Maurice Brown is an non american actor	C	multirowreasoning,negation	multirowreasoning,negation	multirowreasoning negation,subjectiveoot	multirowreasoning,negation
+GW28	T473	Chris Brown is an African-American.	N	subjectiveoot	subjectiveoot	subjectiveoot	subjectiveoot
+GW27	T917	Cairo has more than 20 million people in its metro area.	E	KCS,coref,entitytype,numerical	KCS,coref,entitytype,numerical	KCS,coref,entitytype,numerical	KCS,coref,entitytype,numerical
+GW28	T917	Cairo is a sparsely populated city in Egypt.	C	KCS,subjectiveoot	KCS,subjectiveoot	KCS,subjectiveoot	KCS,subjectiveoot
+GW51	T917	Cairo has the same time zone as cities in the United States.	C	temporal	KCS,temporal	KCS,temporal	temporal
+GW27	T917	Cairo has more people in its city area than in its metro area.	C	KCS,entitytype,multirowreasoning,numerical	KCS,entitytype,multirowreasoning,numerical	KCS,entitytype,multirowreasoning,numerical	KCS,entitytype,multirowreasoning,numerical
+GW27	T917	Cairo is the largest city in Egypt.	N	KCS,subjectiveoot	KCS,subjectiveoot	KCS,subjectiveoot	KCS,subjectiveoot
+GW84	T1700	The Kamloops City Council meets once a week	N	KCS,subjectiveoot	KCS,subjectiveoot	KCS,subjectiveoot	KCS,subjectiveoot
+GW1	T1700	If Ken Christian resigns as Mayor of Kamloops, then Cathy McLeod will most likely replace him.	N	KCS,multirowreasoning,subjectiveoot	KCS,multirowreasoning,subjectiveoot	KCS,multirowreasoning,subjectiveoot	KCS,multirowreasoning,subjectiveoot
+GW1	T1700	Todd Stone inherited his role as MLA of Kamloops.	C	coref,subjectiveoot	coref,subjectiveoot	coref,subjectiveoot	coref,subjectiveoot
+GW84	T1700	Kamloops is ruled by a president.	C	KCS	KCS	KCS	KCS
+GW1	T1700	Kamloops politicians have to get voted for to get elected.	E	KCS,entitytype,lexicalreasoning	KCS,entitytype,lexicalreasoning	KCS,entitytype,lexicalreasoning	KCS,entitytype,lexicalreasoning
+GW84	T1700	Kamloops has a single mayor.	E	numerical	numerical	numerical	numerical
+GW4	T1700	Kamloops has elections for their mayor.	N	KCS,coref	KCS,coref	KCS,coref	KCS,coref
+GW4	T1700	Kamloops does not have any governing body.	C	negation	negation	negation	negation
+GW4	T1700	Kamloops has a democracy structure.	E	KCS	KCS	KCS	KCS
+GW12	T1281	The administrative staff at Brandeis University outnumbers the academic staff.	E	multirowreasoning,numerical	multirowreasoning,numerical	multirowreasoning,numerical	multirowreasoning,numerical
+GW28	T1281	Brandeis University is a private American university established in the 20th century.	E	multirowreasoning,temporal	multirowreasoning,temporal	multirowreasoning,temporal	multirowreasoning,temporal
+GW1	T1281	Lisa M. Lynch will take over for Ronald D. Liebowitz when he leaves Brandeis University.	N	KCS,multirowreasoning,coref,subjectiveoot	KCS,multirowreasoning,coref,subjectiveoot	KCS,multirowreasoning,coref,subjectiveoot	KCS,multirowreasoning,coref,subjectiveoot
+GW28	T1281	Brandeis University has enrolled as man postgraduates as undergraduates.	C	multirowreasoning,numerical	multirowreasoning,numerical	multirowreasoning,numerical	multirowreasoning,numerical
+GW28	T1281	Brandeis University attracts a largely Jewish student body.	N	quantification,subjectiveoot	quantification,subjectiveoot	quantification,subjectiveoot	quantification,subjectiveoot
+GW12	T1281	Brandeis University is a private school established in the fall of 1948.	N	KCS,multirowreasoning,entitytype,temporal	KCS,multirowreasoning,entitytype,temporal	KCS,multirowreasoning,entitytype,temporal	KCS,multirowreasoning,entitytype,temporal
+GW1	T1281	Brandeis University has a male mascot.	E	KCS	KCS	KCS	KCS
+GW1	T1281	Brandeis University has three times as many full time staff members as it does part time staff.	C	coref,multirowreasoning,numerical	coref,multirowreasoning,numerical	coref,multirowreasoning,numerical	coref,multirowreasoning,numerical
+GW12	T1281	Ollie the Owl is the nickname for Brandeis University.	C	simplelookup	simplelookup	simplelookup	simplelookup
+GW1	T1532	Some of the same members of Jefferson Starship were in the band Hot Tuna.	N	entitytype,multirowreasoning,quantification	entitytype,multirowreasoning,quantification	entitytype,multirowreasoning,quantification	entitytype,multirowreasoning,quantification
+GW1	T1532	Jefferson Starship has been active for more than 45 years total.	C	temporal	temporal	temporal	temporal
+GW14	T1532	Jefferson Starship has worked continuously since 1970 until now.	C	temporal	KCS,temporal	temporal	temporal
+GW28	T1532	Jefferson Starship is a rock band that started in Started in San Francisco in the 70s.	E	entitytype,multirowreasoning,temporal	entitytype,multirowreasoning,temporal	entitytype,multirowreasoning,temporal	entitytype,multirowreasoning,temporal
+GW14	T1532	Jefferson Starship was associated with at least 4 other acts in the rock genre.	E	multirowreasoning,numerical,quantification	multirowreasoning,numerical,quantification	multirowreasoning,numerical,quantification	multirowreasoning,numerical,quantification
+GW14	T1532	All original Hot Tuna band members stayed on when they became Jefferson Starship.	N	coref,entitytype,quantification,subjectiveoot	coref,entitytype,quantification,subjectiveoot	coref,entitytype,quantification,subjectiveoot	coref,entitytype,quantification,subjectiveoot
+GW28	T1532	Jefferson Starship won many awards for its music.	N	coref,quantification,subjectiveoot	coref,entitytype,quantification,subjectiveoot	coref,entitytype,quantification,subjectiveoot	coref,lexicalreasoning,quantification,subjectiveoot
+GW28	T1532	Jefferson Starship has performed continuously since the 1970s.	C	KCS,entitytype,temporal	KCS,entitytype,temporal	KCS,entitytype,temporal	KCS,entitytype,temporal
+GW1	T1532	Jefferson Starship was started on the West Coast of the United States.	E	KCS	KCS	KCS	KCS
+GW4	T1495	KARD has been performing for three years.	E	KCS,entitytype,temporal	KCS,entitytype,temporal	KCS,entitytype,temporal	KCS,entitytype,temporal
+GW1	T1495	KARD has some of the same members as the act Super Junior.	N	entitytype,quantification,subjectiveoot	entitytype,quantification,subjectiveoot	entitytype,quantification,subjectiveoot	entitytype,quantification,subjectiveoot
+GW84	T1495	KARD is an American J-Pop band.	C	KCS,entitytype,multirowreasoning	KCS,entitytype,multirowreasoning	KCS,entitytype,multirowreasoning	KCS,entitytype,multirowreasoning
+GW84	T1495	KARD is a band from an Asian country.	E	KCS,entitytype	KCS,entitytype	KCS,entitytype	KCS,entitytype
+GW4	T1495	KARD has recorded an album with Heo Youngji.	N	KCS,entitytype,subjectiveoot	KCS,entitytype,subjectiveoot	KCS,entitytype,subjectiveoot	KCS,entitytype,subjectiveoot
+GW84	T1495	KARD travels worldwide to perform their concerts.	N	KCS,entitytype,coref,subjectiveoot	KCS,entitytype,coref,subjectiveoot	KCS,entitytype,coref,subjectiveoot	KCS,entitytype,coref,subjectiveoot
+GW1	T1495	KARD has been active for over 5 years.	C	temporal	temporal	temporal	temporal
+GW4	T1495	KARD has had several record labels they have been with.	C	coref,entitytype,quantification	coref,entitytype,quantification	coref,entitytype,quantification	coref,entitytype,quantification
+GW1	T1495	KARD has it's roots in an Asian country.	E	KCS,coref	KCS,coref	KCS,coref	KCS,coref
+GW4	T1481	Kamal Haasan has always lived in the same town in India.	C	KCS,subjectiveoot,quantification	KCS,subjectiveoot,quantification	KCS,subjectiveoot,quantification	KCS,subjectiveoot,quantification
+GW84	T1481	Kamal Haasan was born with a different name.	E	simplelookup	simplelookup	simplelookup	simplelookup
+GW84	T1481	The Chevalier French Award was the first award that Kamal Haasan won.	C	temporal	temporal	temporal	temporal
+GW4	T1481	Kamal Haasan is known for their work as an actor.	E	coref,subjectiveoot,lexicalreasoning	coref,subjectiveoot,lexicalreasoning	coref,subjectiveoot,lexicalreasoning	coref,subjectiveoot,lexicalreasoning
+GW4	T1481	Kamal Haasan had both his children with Sarika.	N	coref,multirowreasoning,numerical,subjectiveoot	coref,multirowreasoning,numerical,subjectiveoot	coref,multirowreasoning,numerical,subjectiveoot	coref,multirowreasoning,numerical,subjectiveoot
+GW1	T1481	Parthasarathy Srinivasan won his first award later in the 20th Century.	E	coref,temporal	multirowreasoning,coref,temporal	coref,namedentity,temporal	multirowreasoning,coref,temporal
+GW84	T1481	Kamal Haasan produced more films than they acted in.	N	coref,quantification,subjectiveoot	coref,quantification,subjectiveoot	coref,quantification,subjectiveoot	coref,quantification,subjectiveoot
+GW1	T1481	Parthasarathy Srinivasan was birthed in the Spring of 1954.	C	KCS,temporal	KCS,temporal	namedentity,KCS,temporal	KCS,temporal
+GW1	T1481	Kamal Haasan changed his name from Parthasarathy Srinivasan at an early age.	N	coref,subjectiveoot	coref,subjectiveoot	coref,subjectiveoot	coref,subjectiveoot
+GW72	T1230	Brigitte Nielsen was a famous athlete	C	subjectiveoot	subjectiveoot	subjectiveoot	subjectiveoot
+GW72	T1230	Brigitte Nielsen has 3 daughters and 2 sons	N	numerical,subjectiveoot	numerical,subjectiveoot	numerical,subjectiveoot	numerical,subjectiveoot
+GW1	T1230	Brigitte Nielsen had a singing career before a modeling one.	N	KCS,subjectiveoot	KCS,subjectiveoot	KCS,subjectiveoot,temporal	KCS,subjectiveoot
+GW1	T1230	Brigitte Nielsen was born in the Summer of 1963.	E	KCS,temporal	KCS,temporal	KCS,temporal	KCS,temporal
+GW4	T1230	Brigitte Nielsen had all their children with Sylvester Stallone.	N	KCS,multirowreasoning,quantification,subjectiveoot,coref	KCS,multirowreasoning,quantification,subjectiveoot,coref	KCS,multirowreasoning,quantification,subjectiveoot,coref	KCS,multirowreasoning,quantification,subjectiveoot,coref
+GW72	T1230	Brigitte Nielsen was married four times	E	numerical,lexicalreasoning	numerical,lexicalreasoning	numerical,lexicalreasoning	numerical,lexicalreasoning
+GW4	T1230	Brigitte Nielsen became famous when they were 30 years old.	C	coref,subjectiveoot,temporal	coref,subjectiveoot,temporal	coref,subjectiveoot,temporal	coref,subjectiveoot,temporal
+GW1	T1230	Brigitte Nielsen has been active for over 40 years.	C	temporal	temporal	temporal	temporal
+GW4	T1230	Brigitte Nielsen is originally from Europe.	E	KCS	KCS	KCS	KCS
+GW27	T1318	Cameron Diaz was born and reared in different cities.	E	KCS,multirowreasoning	KCS,multirowreasoning	KCS,multirowreasoning	KCS,multirowreasoning
+GW12	T1318	Cameron Diaz has been a performing actress since 1994.	E	KCS,multirowreasoning,temporal	KCS,multirowreasoning,temporal	KCS,multirowreasoning,temporal	KCS,multirowreasoning,temporal
+GW12	T1318	Benji Madden has been married to Cameron Diaz for 4 years.	N	temporal,lexicalreasoning	temporal,lexicalreasoning	temporal,lexicalreasoning	temporal,lexicalreasoning
+GW1	T1318	Cameron Diaz has lived in California her entire life.	N	quantification,subjectiveoot,multirowreasoning,coref	quantification,subjectiveoot,multirowreasoning,coref	quantification,subjectiveoot,multirowreasoning,coref	quantification,subjectiveoot,multirowreasoning,coref
+GW27	T1318	Cameron Diaz was born and reared in the same cities.	C	KCS,multirowreasoning	KCS,multirowreasoning	KCS,multirowreasoning	KCS,multirowreasoning
+GW1	T1318	Cameron Diaz was born in the Winter of 1972.	C	KCS,temporal	KCS,temporal	KCS,temporal	KCS,temporal
+GW12	T1318	Cameron Diaz was born in Long Beach, California in summer of 1972.	C	KCS,temporal	KCS,temporal	KCS,temporal	KCS,temporal
+GW27	T1318	Cameron Diaz quit acting to get married.	N	multirowreasoning,subjectiveoot,temporal,lexicalreasoning	multirowreasoning,subjectiveoot,temporal,lexicalreasoning	multirowreasoning,subjectiveoot,temporal,lexicalreasoning	multirowreasoning,subjectiveoot,temporal,lexicalreasoning
+GW1	T1318	Cameron Diaz was active for about 20 years in acting.	E	multirowreasoning,temporal	multirowreasoning,temporal	multirowreasoning,temporal	multirowreasoning,temporal
+GW40	T1383	Chance The Rapper isn't actually a rapper.	C	negation	negation	negation	negation
+GW28	T1383	Chance The Rapper is an American rapper	E	KCS	KCS,multirowreasoning	KCS,multirowreasoning	KCS
+GW4	T1383	Chance The Rapper has always lived in Chicago.	E	quantification,subjectiveoot,multirowreasoning	quantification,subjectiveoot,multirowreasoning	quantification,subjectiveoot,multirowreasoning	quantification,subjectiveoot,multirowreasoning
+GW4	T1383	Chance The Rapper has never preformed with Kanye West.	C	KCS	KCS,negation	KCS,negation	KCS,quantification
+GW40	T1383	Chance The Rapper has been active on the rap scene longer than he's been married.	N	coref,multirowreasoning,temporal	coref,multirowreasoning,temporal	coref,multirowreasoning,temporal	coref,multirowreasoning,temporal
+GW4	T1383	Chance The Rapper began playing piano before they sang.	N	coref,multirowreasoning,temporal	coref,multirowreasoning,temporal	coref,multirowreasoning,temporal	coref,multirowreasoning,temporal
+GW28	T1383	Chance The Rapper is a father of a daughter.	N	KCS	KCS	KCS	KCS
+GW40	T1383	Chance The Rapper's real name is Chancelor Jonathan Bennett.	E	simplelookup	simplelookup	simplelookup	simplelookup
+GW28	T1383	Chance The Rapper started his career in his twenties.	C	KCS,multirowreasoning,coref,temporal	KCS,multirowreasoning,coref,temporal	KCS,multirowreasoning,coref,temporal	KCS,multirowreasoning,coref,temporal
+GW0	T1430	Jeff Bridges has released albums of his singing.	N	KCS,coref	KCS,coref	KCS,coref	KCS,coref
+GW84	T1430	Jeff Bridges' only sibling is his brother, Beau.	C	quantification,lexicalreasoning,coref	quantification,lexicalreasoning,coref	quantification,lexicalreasoning,coref	quantification,lexicalreasoning,coref
+GW84	T1430	Jeff Bridges was born in the middle of the 1900s.	E	temporal	temporal	temporal	temporal
+GW1	T1430	Jeff Bridges started his career as a young child.	E	KCS,coref,temporal,multirowreasoning	KCS,coref,temporal,multirowreasoning	KCS,coref,temporal,multirowreasoning	KCS,coref,temporal,multirowreasoning
+GW1	T1430	Jeff Bridges was born in the Summer of 1949.	C	KCS,temporal	KCS,temporal	KCS,temporal	KCS,temporal
+GW1	T1430	Jeff Bridges was a singer before he ever composed anything.	N	KCS,coref,subjectiveoot,temporal	KCS,coref,subjectiveoot,temporal	KCS,coref,subjectiveoot,temporal	KCS,coref,subjectiveoot,temporal
+GW0	T1430	Jeff Bridges has been married to Susan Geston for over half of his life.	E	coref,multirowreasoning,temporal	coref,multirowreasoning,temporal	coref,multirowreasoning,temporal	coref,multirowreasoning,temporal
+GW84	T1430	Jeff Bridges started acting with his parents.	N	coref,multirowreasoning,subjectiveoot	coref,multirowreasoning,subjectiveoot	coref,multirowreasoning,subjectiveoot	coref,multirowreasoning,subjectiveoot
+GW0	T1430	Jeff Bridges didn't start acting until later in life.	C	multirowreasoning,subjectiveoot,temporal	multirowreasoning,subjectiveoot,temporal	multirowreasoning,subjectiveoot,temporal	multirowreasoning,subjectiveoot,temporal
+GW14	T1651	Johann Jacob Schweppe is currently overseeing production at the Schweppes factory in Switzerland.	C	KCS,entitytype,multirowreasoning	KCS,entitytype,multirowreasoning	KCS,entitytype,multirowreasoning	KCS,entitytype,multirowreasoning
+GW14	T1651	Johann Jacob Schweppe had experience in entrepreneurship as well as making timepieces.	E	KCS,lexicalreasoning	KCS,lexicalreasoning	KCS,lexicalreasoning	KCS,lexicalreasoning
+GW1	T1651	Johann Jacob Schweppe was a businessman after he was a watchmaker.	N	coref,subjectiveoot	coref,subjectiveoot	coref,subjectiveoot	coref,subjectiveoot
+GW28	T1651	Johann Jacob Schweppe is famous for fizzy water.	E	KCS	KCS	KCS	KCS
+GW14	T1651	Johann Jacob Schweppe worked for several decades before perfecting the current Schweppes mineral water formula.	N	KCS,subjectiveoot	KCS,subjectiveoot	KCS,subjectiveoot	KCS,subjectiveoot
+GW1	T1651	Johann Jacob Schweppe was born late in the year 1740.	E	temporal	temporal	temporal	temporal
+GW28	T1651	Johann Jacob Schweppe contributed to the popularity of cocktails.	N	subjectiveoot	subjectiveoot	subjectiveoot	subjectiveoot
+GW1	T1651	Johann Jacob Schweppe died in the Summer of 1821.	C	KCS,temporal	KCS,temporal	KCS,temporal	KCS,temporal
+GW28	T1651	Johann Jacob Schweppe was more famous for his watchmaking ability.	C	lexicalreasoning,quantification,coref	lexicalreasoning,quantification,coref	lexicalreasoning,quantification,coref	lexicalreasoning,quantification,coref
+GW1	T1431	John Augustus Larson studied Criminology before working on Polygraphy.	N	subjectiveoot,temporal	subjectiveoot,temporal	subjectiveoot,temporal	subjectiveoot,temporal
+GW28	T1431	John Augustus Larson was a naturalized American.	N	KCS,multirowreasoning	KCS,multirowreasoning	KCS,multirowreasoning	KCS,multirowreasoning
+GW28	T1431	John Augustus Larson received his Ph.D. in his thirties.	C	coref,multirowreasoning,temporal	coref,multirowreasoning,temporal	coref,multirowreasoning,temporal	coref,multirowreasoning,temporal
+GW85	T1431	John was uneducated	C	negation,namedentity	negation,namedentity	negation,namedentity	negation,namedentity
+GW85	T1431	John was born in fall.	E	KCS,namedentity,temporal	KCS,namedentity,temporal	KCS,namedentity,temporal	KCS,namedentity,temporal
+GW85	T1431	John was a important person.	N	namedentity,subjectiveoot	namedentity,subjectiveoot	namedentity,subjectiveoot	namedentity,subjectiveoot
+GW1	T1431	John Augustus Larson was born in the last decade of the 18th century.	C	temporal	temporal	temporal	temporal
+GW28	T1431	John Augustus Larson was an educated criminologist.	E	KCS,multirowreasoning	KCS,multirowreasoning	KCS,multirowreasoning	KCS,multirowreasoning
+GW1	T1431	The death of John Augustus Larson took place in the Fall of 1965.	E	KCS,lexicalreasoning,temporal	KCS,lexicalreasoning,temporal	KCS,lexicalreasoning,temporal	KCS,lexicalreasoning,temporal
+GW1	T1701	John Barrowman has been married for over a decade.	C	lexicalreasoning,temporal	lexicalreasoning,temporal	lexicalreasoning,temporal	lexicalreasoning,temporal
+GW84	T1701	John Barrowman got married in the US.	N	subjectiveoot	subjectiveoot	subjectiveoot	subjectiveoot
+GW0	T1701	John Barrowman is a citizen of his birth country.	C	KCS,coref,multirowreasoning	KCS,coref,multirowreasoning	KCS,coref,multirowreasoning	KCS,coref,multirowreasoning
+GW84	T1701	John Barrowman is in his forties.	C	coref,temporal	coref,temporal	coref,temporal	coref,temporal
+GW84	T1701	John Barrowman has been performing for thirty years.	E	KCS,multirowreasoning,temporal	KCS,multirowreasoning,temporal	KCS,multirowreasoning,temporal	KCS,multirowreasoning,temporal
+GW1	T1701	John Barrowman was an author before he was a singer.	N	coref,subjectiveoot	coref,subjectiveoot	coref,subjectiveoot	coref,subjectiveoot
+GW0	T1701	John Barrowman has written several types of books.	E	quantification,subjectiveoot	quantification,subjectiveoot	quantification,subjectiveoot	quantification,subjectiveoot
+GW1	T1701	John Barrowman was born in the Spring of 1967.	E	KCS,temporal	KCS,temporal	KCS,temporal	KCS,temporal
+GW0	T1701	John Barrowman began acting in his forties.	N	coref,temporal,multirowreasoning	coref,temporal,multirowreasoning	coref,temporal,multirowreasoning	coref,temporal,multirowreasoning
