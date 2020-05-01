@@ -70,4 +70,4 @@ data
 
 ```
 
-For the code, check out [here](https://github.com/utahnlp/infotabs) .
+For the code, check out [here](https://github.com/utahnlp/infotabs-code).
