@@ -21,8 +21,8 @@ data
 │ 
 ├── annotation_info
 │   ├── annoations_stats
-│   │   ├── creators.tsv 							# amazon mturk annotator statitiscs (data annoatators)
-│   │   └── validation.tsv 							# amazon mturk annotator statitiscs (data validators)
+│   │   ├── creators.tsv 						# amazon mturk annotator statitiscs (data annoatators)
+│   │   └── validation.tsv 						# amazon mturk annotator statitiscs (data validators)
 │   └── templates
 │       ├── annotation-template1.html 				# annotation template example 1 
 │       ├── annotation-template2.html 				# annotation template example 2 
@@ -30,19 +30,19 @@ data
 │       ├── annotation-template4.html 				# annotation template example 4 
 │       └── validation-template.html 				# validation template
 │
-├── maindata										# primary infotabs dataset folder
-│   ├── infotabs_dev.tsv 							# development datasplit
+├── maindata								# primary infotabs dataset folder
+│   ├── infotabs_dev.tsv 						# development datasplit
 │   ├── infotabs_test_alpha1.tsv 					# test alpha1 datasplit
 │   ├── infotabs_test_alpha2.tsv 					# test alpha2 datasplit
 │   ├── infotabs_test_alpha3.tsv 					# test alpha3 datasplit
-│   └── infotabs_train.tsv 							# training dataset
+│   └── infotabs_train.tsv 						# training dataset
 │
-├── reasoning 										# reasoning statitsic folder
-│   ├── infotabs_dev.tsv 							# reasoning on subset of development datasplit
+├── reasoning 								# reasoning statitsic folder
+│   ├── infotabs_dev.tsv 						# reasoning on subset of development datasplit
 │   └── infotabs_test_alpha3.tsv 					# reasoning on subset of alpha3 datasplit
 │
-├── tables 											# tables folder
-│   ├── html 										# tables premises in html format
+├── tables 									# tables folder
+│   ├── html 								# tables premises in html format
 │   │   ├── T0.html
 │   │   ├── T1000.html
 │   │   ├── T1001.html
@@ -51,7 +51,7 @@ data
 │   │   ├── T99.html
 │   │   └── T9.html
 │   │
-│   ├── json										# tables premises in json format
+│   ├── json								# tables premises in json format
 │   │   ├── T0.json
 │   │   ├── T1000.json
 │   │   ├── T1001.json
@@ -61,8 +61,8 @@ data
 │   │   └── T9.json
 │   └── table_categories.tsv 						# table categories
 │   		  
-├── validation 										# validation annotations folder
-│   ├── infotabs_valid_dev.tsv 						# validation annotations develement dataset
+├── validation 								# validation annotations folder
+│   ├── infotabs_valid_dev.tsv 					# validation annotations develement dataset
 │   ├── infotabs_valid_test_alpha1.tsv 				# alpha1 annotations develement datasplit
 │   ├── infotabs_valid_test_alpha2.tsv 				# alpha2 annotations develement datasplit
 │   └── infotabs_valid_test_alpha3.tsv 				# alpha3 annotations develement datasplit
