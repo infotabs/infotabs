@@ -10,7 +10,6 @@ If you use our dataset, please cite our ACL 2020 paper: [INFOTABS: Inference on 
       year      = {2020}
   }
 ```
-Downloaded and unpacked the INFOTABS datasets into ```./data``` in the main ```infotabs``` folder. 
 
 Carefully, read the LICENCE and the Datasheet for non-academic usage. 
 
