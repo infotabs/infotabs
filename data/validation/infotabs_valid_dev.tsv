@@ -80,7 +80,7 @@ T1536	John Carter was produced by the same person who wrote the screenplay.	GW14
 T1536	The gross budget of John Carter was higher than its box office receipts.	GW14	0	0	[0, 0, 0, 0, 0]	['VW11', 'VW19', 'VW4', 'VW2', 'VW8']
 T1536	The run time of John Carter is over two hours long.	GW1	0	0	[0, 0, 0, 0, 0]	['VW11', 'VW19', 'VW4', 'VW2', 'VW8']
 T1536	John Carter was able to net a profit at the box office.	GW4	0	0	[2, 2, 0, 0, 1]	['VW11', 'VW19', 'VW4', 'VW2', 'VW8']
-T450	Conor Anthony McGregor was given "The Notorious" nickname by his head coach, John Kavanagh.	GW27	1	1	[0, 0, 1, 1, 1]	['VW31', 'VW2', 'VW9', 'VW18', 'VW27']
+T450	Conor Anthony McGregor was given'The Notorious' nickname by his head coach, John Kavanagh.	GW27	1	1	[0, 0, 1, 1, 1]	['VW31', 'VW2', 'VW9', 'VW18', 'VW27']
 T450	Conor McGregor trains in Ireland.	GW28	1	1	[0, 0, 1, 1, 1]	['VW31', 'VW2', 'VW9', 'VW18', 'VW27']
 T450	Conor Anthony McGregor is known as "The Notorious".	GW27	0	0	[0, 0, 0, 0, 0]	['VW31', 'VW2', 'VW9', 'VW18', 'VW27']
 T450	Conor McGregor is an Irish professional fighter.	GW28	0	0	[0, 0, 0, 0, 0]	['VW10', 'VW32', 'VW3', 'VW14', 'VW2']
