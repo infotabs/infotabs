@@ -1791,4 +1791,3 @@ T1182	Bradley Cooper is an award-winning American actor.	GW28	0	0	[0, 1, 1, 0, 0
 T1182	Bradley Cooper lives with Irina Shayk.	GW4	1	0	[0, 0, 0, 1, 0]	['VW5', 'VW49', 'VW42', 'VW24', 'VW19']
 T1182	Bradley Cooper has one daughter.	GW28	1	1	[0, 1, 1, 1, 0]	['VW5', 'VW49', 'VW42', 'VW24', 'VW19']
 T1182	The winter of 1975 was when Bradley Cooper, the actor, was born.	GW12	0	0	[0, 0, 0, 0, 0]	['VW5', 'VW49', 'VW42', 'VW24', 'VW19']
-a
