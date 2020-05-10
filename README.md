@@ -11,25 +11,6 @@ If you use our dataset, please cite our ACL 2020 paper: [INFOTABS: Inference on 
   }
 ```
 
-Carefully, read the LICENCE and the Datasheet for non-academic usage. 
-
-After downloading, you have multiple sub-folders with several csv/tsv/html files. Each csv/tsv files in sub-folders has 1st rows as a header:
-
-```
-python 3.6+
-pytorch 1.2.0
-huggingface transformers
-spacy 2.0.11 with en model
-nltk with punkt, stopwords
-json
-collections
-gensim
-numpy
-liblinear
-```
-
-Downloaded and unpacked the [INFOTABS datasets](https://github.com/infotabs/infotabs) into ```./data``` in the main ```infotabs-code``` folder. 
-
 Carefully read the LICENCE and the Datasheet for non-academic usage. 
 
 After downloading, you have multiple sub-folders with several csv/tsv/html files. Each csv/tsv file in the sub-folders has 1st rows as a header:
