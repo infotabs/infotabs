@@ -70,4 +70,4 @@ data
 
 ```
 
-For the code, check out [here](https://github.com/utahnlp/infotabs-code).
+For the code, check out [here](https://github.com/utahnlp/infotabs-code). Note : Wherever require consider year 2019 as the build date for the dataset.
